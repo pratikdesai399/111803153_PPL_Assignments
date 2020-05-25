@@ -1,0 +1,12 @@
+Q1) flight(toronto, madrid, X, Y, Z) ; flight(madrid, toronto, X, Y, Z).
+
+Q2) flight(A, B, C, T, M), <(M, 400).
+
+Q3) (flight(X, toronto, Y, T, M) ; flight(toronto, X, Y, T, M)) , (flight(X,
+paris, A, B, C) ; flight(paris, X, A, B, C)).
+
+Q4) (flight(A, B, C, T, M), <(M, 400)) ; (flight(A, B, air_canada, T, M)).
+
+Q5) flight(A, B, united, T, M), flight(A, B, air_canada, X, Y).
+
+
