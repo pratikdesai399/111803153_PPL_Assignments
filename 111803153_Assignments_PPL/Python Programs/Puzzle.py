@@ -60,8 +60,8 @@ def findSol():
 		step += ' rowed to ' + lastMovedDirection + ' shore'
 		solution.append(step)
 
-print ("\n\n" + format('Man-Cabbage-Wolf-Goat Problem', "^60"))
-print ('Group Members: Abhay Padda(193), Deepak(203), Dhananjai(205), Jibson(209)')
+print ("\n\n" + format('Man-Grass-Tiger-Goat Problem', "^60"))
+
 print (format('-', '-<80'))
 print ("\nInitial Status: ")
 print ('Right Shore:- ')
